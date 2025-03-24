@@ -1,8 +1,8 @@
-## Google Cloud Platform CLI Commands
+# Google Cloud Platform CLI Commands
 
 The `gcloud` CLI is the primary command-line tool for interacting with Google Cloud Platform services.
 
-### Table of Contents
+## Table of Contents
 1. [Installation and Setup](#installation-and-setup)
 2. [Basic Commands](#basic-commands)
 3. [Compute Engine (VMs)](#compute-engine-vms)
