@@ -1,6 +1,6 @@
 # GCP CLI Commands
 
-The `gcloud` CLI is the primary command-line tool for interacting with Google Cloud Platform (GCP) services.
+The `gcloud` CLI is the primary command-line tool for interacting with Google Cloud Platform services.
 
 ## Installation and Setup
 
